@@ -169,6 +169,8 @@ function myFunction($fname, $lname) {
     return $lname;
 }
 echo "<br>";
+$fruits = array("Apple", "Banana", "Orange");
+echo count($fruits)
 
 
 
