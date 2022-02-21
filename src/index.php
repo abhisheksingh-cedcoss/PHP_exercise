@@ -192,7 +192,11 @@ foreach($age  as $x => $y) {
 
 $colors = array("red", "green", "blue", "yellow"); 
 sort($colors);
+//
 
+$colors = array("red", "green", "blue", "yellow"); 
+rsort($colors);
+//
 
 
 
