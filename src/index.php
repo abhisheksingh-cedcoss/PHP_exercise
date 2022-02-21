@@ -10,5 +10,5 @@
     /* Multi-line comment*/
 
     echo "";   
-
+    $txt = "Hello"; 
 ?>
