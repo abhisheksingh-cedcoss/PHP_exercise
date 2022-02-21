@@ -165,6 +165,12 @@ echo "<br>";
 function myFunction($fname, $lname) {
     echo $fname;
 }
+echo "<br>";
+
+function myFunction($fname, $lname) {
+    echo $lname;}
+
+    echo "<br>";
 
 
 ?>
