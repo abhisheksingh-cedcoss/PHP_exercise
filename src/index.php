@@ -39,6 +39,14 @@
     var_dump($a!=$b);
     echo "<br>";
 
+    $a = 50;
+    $b = 10;
+
+    if($a > $b){
+        echo "hello world";
+    }
+    echo "<br>";
+
 
 
 
