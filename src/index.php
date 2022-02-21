@@ -216,6 +216,17 @@ include 'footer.php';
 
 echo readfile("webdict.txt");
 
+$myfile = fopen("webdict.txt", "r");
+
+while(!feof ($myfile)) {
+  echo fgetc($myfile);}
+
+
+
+
+
+
+
 
 ?>
 
