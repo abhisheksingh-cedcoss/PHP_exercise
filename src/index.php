@@ -204,7 +204,9 @@ asort($age);
 
 echo date("l");
 
+//
 
+echo date("Y.m.d");
 
 ?>
 
