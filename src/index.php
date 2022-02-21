@@ -70,7 +70,7 @@
     }
 
     else {
-        echo "3":
+        echo "3";
     }
 
     echo "<br>";
@@ -152,25 +152,25 @@ foreach ($colors as $x) {
 
 echo "<br>";
 
-function myFunction(){
-    echo "Hi, How are you";
-}
+// function myFunction(){
+//     echo "Hi, How are you";
+// }
 
 echo "<br>";
 
-myFunction();
+// myFunction();
 
 echo "<br>";
 
 function myFunction($fname, $lname) {
     echo $fname;
+    echo $lname;
+
+    return $lname;
 }
 echo "<br>";
 
-function myFunction($fname, $lname) {
-    echo $lname;}
 
-    echo "<br>";
 
 
 ?>
