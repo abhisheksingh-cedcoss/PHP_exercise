@@ -185,7 +185,7 @@ echo "Ben is " . $age['Ben'] . " years old.";
 
 echo "<br>";
 
-foreach($age =>$x => $y) {
+foreach($age  as $x => $y) {
     echo "Key=" .$x. ", Value=" .$y;
 }
 
