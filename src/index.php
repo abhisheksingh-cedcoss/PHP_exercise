@@ -121,5 +121,15 @@ while
   $i++;
 }
 
+$i = 1; 
+// using do while loop
+do
+ {
+    echo $i;
+    $i++;
+} 
+while
+ ($i < 6);
+
 
 ?>
