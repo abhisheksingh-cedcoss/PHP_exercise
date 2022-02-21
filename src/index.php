@@ -214,7 +214,7 @@ echo date("H:i:s");
 //
 include 'footer.php';
 
-
+echo readfile("webdict.txt");
 
 
 ?>
