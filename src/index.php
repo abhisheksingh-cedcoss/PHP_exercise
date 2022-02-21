@@ -9,4 +9,6 @@
 
     /* Multi-line comment*/
 
+    echo "";   
+
 ?>
