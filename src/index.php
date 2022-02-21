@@ -183,6 +183,12 @@ echo "<br>";
 $age = array("Peter"=>"35", "Ben"=>"37", "Joe"=>"43");
 echo "Ben is " . $age['Ben'] . " years old.";
 
+echo "<br>";
+
+foreach($age =>$x => $y) {
+    echo "Key=" .$x. ", Value=" .$y;
+}
+
 
 
 
