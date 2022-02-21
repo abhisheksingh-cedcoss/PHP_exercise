@@ -4,4 +4,6 @@
 
 <?php
     // openning tags of php
+
+    // second exercise for comment tags //
 ?>
