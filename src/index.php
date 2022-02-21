@@ -50,6 +50,15 @@
     if($a != $b){
         echo "hello world";
     }
+    echo "<br>";
+
+    if ($a ==$b){
+        echo "yes";
+    }
+    else{
+        echo "no";
+    }
+    echo "<br>";
 
 
 
