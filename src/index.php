@@ -150,6 +150,13 @@ foreach ($colors as $x) {
   echo $x;
 }
 
+echo "<br>";
+
+function myFunction(){
+    echo "Hi, How are you";
+}
+
+echo "<br>";
 
 
 
