@@ -14,10 +14,13 @@
     
     $x = 4;
     $y = 5;
-    echo $x + $y
-    echo "<br>";
+    echo $x + $y;
 
     echo strlen("Hello world");
 
+    echo strrev("Hello world");
+
+    $oldtxt = "Hello World!";
+    $newtxt = str_replace("World","Dolly", $oldtxt )
 
 ?>
