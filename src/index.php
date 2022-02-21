@@ -107,6 +107,19 @@ switch ($color) {
       echo "Neither";
   }
 
+  echo "<br>";
+
+  // using while loop
+
+  $i = 1; 
+
+while
+ ($i < 6) 
+{
+
+  echo $i;
+  $i++;
+}
 
 
 ?>
