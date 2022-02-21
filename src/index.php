@@ -197,6 +197,8 @@ sort($colors);
 $colors = array("red", "green", "blue", "yellow"); 
 rsort($colors);
 //
+$age = array("Peter"=>"35", "Ben"=>"37", "Joe"=>"43");
+asort($age);
 
 
 
