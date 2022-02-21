@@ -212,7 +212,7 @@ echo date("Y.m.d");
 echo date("H:i:s");
 
 //
-
+include 'footer.php';
 
 
 
