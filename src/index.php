@@ -227,7 +227,7 @@ while(!feof ($myfile)) {
 
 //
 session_start();
-$_session["favcolor"] = "green";
+$_SESSION["favcolor"] = "green";
 
 
 
