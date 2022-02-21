@@ -188,7 +188,10 @@ echo "<br>";
 foreach($age  as $x => $y) {
     echo "Key=" .$x. ", Value=" .$y;
 }
+//
 
+$colors = array("red", "green", "blue", "yellow"); 
+sort($colors);
 
 
 
