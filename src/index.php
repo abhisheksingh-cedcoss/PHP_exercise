@@ -202,16 +202,18 @@ asort($age);
 
 
 
-<form action="welcome.php" method="get">
-First name: <input type="text" name="fname">
-</form>
+
 
 ?>
 
 <html>
 <body>
 
-Welcome <?php echo $_GET["fname"]; ?>
+<form action="welcome.php" method="post">
+First name: <input type="text" name="fname">
+</form>
+
+Welcome <?php echo $_POST["fname"]; ?>
 
 </body>
 </html>
