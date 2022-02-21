@@ -174,8 +174,11 @@ echo count($fruits)
 
 echo "<br>";
 $fruits = array("Apple", "Banana", "Orange");
-echo $fruits[1]
-;
+echo $fruits[1];
+
+echo "<br>";
+$age = array("Peter"
+=>"35", "Ben"=>"37", "Joe"=>"43");
 
 
 ?>
