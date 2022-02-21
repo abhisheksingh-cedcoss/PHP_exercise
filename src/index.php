@@ -162,7 +162,9 @@ myFunction();
 
 echo "<br>";
 
-
+function myFunction($fname, $lname) {
+    echo $fname;
+}
 
 
 ?>
