@@ -47,6 +47,10 @@
     }
     echo "<br>";
 
+    if($a != $b){
+        echo "hello world";
+    }
+
 
 
 
