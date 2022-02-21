@@ -172,7 +172,10 @@ echo "<br>";
 $fruits = array("Apple", "Banana", "Orange");
 echo count($fruits)
 
-
+echo "<br>";
+$fruits = array("Apple", "Banana", "Orange");
+echo $fruits[1]
+;
 
 
 ?>
