@@ -158,7 +158,9 @@ function myFunction(){
 
 echo "<br>";
 
+myFunction();
 
+echo "<br>";
 
 
 
