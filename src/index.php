@@ -33,6 +33,9 @@
     echo 10/2;
     echo "<br>";
 
+    var_dump($a==$b);
+    echo "<br>";
+
 
 
 ?>
